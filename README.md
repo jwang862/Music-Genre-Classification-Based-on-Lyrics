@@ -1,6 +1,6 @@
 # Music Genre Classification Based on Lyrics
 
-Jingyi (Wengie) Wang: jwang862@wisc.edu  \n
+Jingyi (Wengie) Wang: jwang862@wisc.edu   
 Yezhou Li: yli967@wisc.edu
 
 # Abstract 
